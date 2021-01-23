@@ -1,9 +1,10 @@
 import React from 'react';
 
-import './app.css';
+import useStyles from './styles';
 
 function App() {
-  return <div />;
+  const classes = useStyles();
+  return <div className={classes.App} />;
 }
 
 export default App;

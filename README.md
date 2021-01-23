@@ -1,6 +1,6 @@
 ![Logo](https://i.imgur.com/wSmoxzX.png)
 
-# Nome
+# Q-Board
 
 > To view the project visit <a href="" target="_blank"> W.I.P</a>
 
@@ -13,10 +13,10 @@
 
 ### Clone
 
-> Clone this repo to your local machine using `Link Here`
+> Clone this repo to your local machine using `https://github.com/Lab-Quantum/Q-Board.git`
 
 ```shell
-$ git clone Link Here
+$ git clone https://github.com/Lab-Quantum/Q-Board.git
 ```
 
 ### Setup
