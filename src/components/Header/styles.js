@@ -9,7 +9,7 @@ const useStyles = makeStyles((theme) => ({
     [theme.breakpoints.down('md')]: {},
   },
   cardHeader: {
-    height: '45vh',
+    height: '400px',
     backgroundColor: '#fff',
   },
 }));
