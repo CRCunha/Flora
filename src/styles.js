@@ -2,13 +2,9 @@ import { makeStyles } from '@material-ui/core/styles';
 
 const useStyles = makeStyles(() => ({
   App: {
-    width: '100vw',
-    height: '100vh',
-
-    backgroundColor: '#f1f1f1',
-
+    backgroundColor: '#eee',
     display: 'flex',
-    flexWrap: 'nowrap',
+    flexWrap: 'wrap',
   },
 }));
 export default useStyles;
