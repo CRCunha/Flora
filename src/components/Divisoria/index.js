@@ -6,18 +6,12 @@ import Grid from '@material-ui/core/Grid';
 import useStyles from './styles';
 // import img from '../../../assets/HeaderBg.jpg';
 
-export default function Header() {
+export default function Divisoria() {
   const classes = useStyles();
 
   return (
-    <article className={classes.header}>
-      <Grid container justify="center">
-        <Grid item xs={10}>
-          <Grid container alignItems="center" className={classes.cardContainer}>
-            <Grid item xs={5} className={classes.cardHeader} />
-          </Grid>
-        </Grid>
-      </Grid>
+    <article className={classes.divisoria}>
+      <Grid container justify="center" />
     </article>
   );
 }

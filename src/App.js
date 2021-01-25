@@ -8,6 +8,7 @@ import Galeria from './components/Galeria';
 import Sobre from './components/Sobre';
 import Contato from './components/Contato';
 import Footer from './components/Footer';
+import Divisoria from './components/Divisoria';
 
 function App() {
   const classes = useStyles();
@@ -17,6 +18,7 @@ function App() {
       <Header />
       <Sobre />
       <Galeria />
+      <Divisoria />
       <Contato />
       <Footer />
     </div>
